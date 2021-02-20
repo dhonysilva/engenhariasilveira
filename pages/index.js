@@ -32,7 +32,7 @@ export default function Home() {
         <div className="grid">
           <a href="https://whats.link/whelysonsilveira" className="card">
             <h3>WhatsApp &rarr;</h3>
-            <p>Vamosa conversar? Entre em contato comigo.</p>
+            <p>Vamos conversar? Entre em contato comigo.</p>
           </a>
 
           <a href="https://www.instagram.com/engwhelysonsilveira/" className="card">
