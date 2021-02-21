@@ -18,12 +18,19 @@ export default function Home() {
         <h1 className="title">
           Whelyson Silveira
         </h1>
-
-        <p className="description">
-          engenheiro civil e empreendedor
-        </p>
         <div className="grid">
           <p>
+          Engenheiro civil graduado pela Faculdade Metropolitana de Marabá. Pós graduando em Master BIM: Ferramentas de Gestão e Projetos, pelo IPOG. 
+          </p>
+          <p>
+          Durante a graduação, estagiei na Construtora Zucatelli, prestadora de serviços de pavimentação, drenagem e terraplenagem na região de Marabá, Pará. Tive a oportunidade de elaborar projetos, orçamentos, participar de processos licitatórios, entender a logística e atividades diárias da construtora, realizar demandas de escritório e auxiliar na gestão da equipe no canteiro no obras.
+          </p>
+          <p>
+          Sou sócio-fundador da <strong>Silveira Engenharia</strong>, empresa de projeto e execução de obras residenciais. Trabalhamos com financiamento habitacional ajudando pessoas a realizarem sonhos: projetando, planejando e construindo seus lares. 
+          </p>
+        </div>
+        <div className="grid">
+          <p className="card">
             Minha equipe e eu estamos preparando uma série de novidades para os nossos clientes e iremos reunir todo o conteúdo aqui nesse site.
           </p>
         </div>
